@@ -1,0 +1,5 @@
+/usr/local/lib/perl5/site_perl/5.26.1/B/Hooks/EndOfScope.pm
+/usr/local/lib/perl5/site_perl/5.26.1/B/Hooks/EndOfScope/PP.pm
+/usr/local/lib/perl5/site_perl/5.26.1/B/Hooks/EndOfScope/PP/FieldHash.pm
+/usr/local/lib/perl5/site_perl/5.26.1/B/Hooks/EndOfScope/PP/HintHash.pm
+/usr/local/lib/perl5/site_perl/5.26.1/B/Hooks/EndOfScope/XS.pm

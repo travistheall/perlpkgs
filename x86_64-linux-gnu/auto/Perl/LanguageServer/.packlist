@@ -1,0 +1,17 @@
+/usr/local/lib/perl5/site_perl/5.26.1/Perl/Changes.pod
+/usr/local/lib/perl5/site_perl/5.26.1/Perl/LanguageServer.pm
+/usr/local/lib/perl5/site_perl/5.26.1/Perl/LanguageServer/DebuggerBridge.pm
+/usr/local/lib/perl5/site_perl/5.26.1/Perl/LanguageServer/DebuggerInterface.pm
+/usr/local/lib/perl5/site_perl/5.26.1/Perl/LanguageServer/DebuggerProcess.pm
+/usr/local/lib/perl5/site_perl/5.26.1/Perl/LanguageServer/DevTool.pm
+/usr/local/lib/perl5/site_perl/5.26.1/Perl/LanguageServer/IO.pm
+/usr/local/lib/perl5/site_perl/5.26.1/Perl/LanguageServer/Methods.pm
+/usr/local/lib/perl5/site_perl/5.26.1/Perl/LanguageServer/Methods/DebugAdapter.pm
+/usr/local/lib/perl5/site_perl/5.26.1/Perl/LanguageServer/Methods/DebugAdapterInterface.pm
+/usr/local/lib/perl5/site_perl/5.26.1/Perl/LanguageServer/Methods/textDocument.pm
+/usr/local/lib/perl5/site_perl/5.26.1/Perl/LanguageServer/Methods/workspace.pm
+/usr/local/lib/perl5/site_perl/5.26.1/Perl/LanguageServer/Parser.pm
+/usr/local/lib/perl5/site_perl/5.26.1/Perl/LanguageServer/Req.pm
+/usr/local/lib/perl5/site_perl/5.26.1/Perl/LanguageServer/SyntaxChecker.pm
+/usr/local/lib/perl5/site_perl/5.26.1/Perl/LanguageServer/Workspace.pm
+/usr/local/lib/perl5/site_perl/5.26.1/Perl/README.pod
